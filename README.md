@@ -7,7 +7,7 @@ SELECT
 FROM
   `bigquery-public-data.thelook_ecommerce.orders`
 ```
-<img width="369" height="110" alt="image" src="https://github.com/user-attachments/assets/ada83cc4-a6f9-47c0-bdab-3d8f8b72a00e" />
+<img width="210" height="62.60" alt="image" src="https://github.com/user-attachments/assets/ada83cc4-a6f9-47c0-bdab-3d8f8b72a00e" />
 
 ### Insights: The total number of orders are 124,900.
 
@@ -20,7 +20,7 @@ SELECT
 FROM
   `bigquery-public-data.thelook_ecommerce.products`
 ```
-<img width="379" height="110" alt="image" src="https://github.com/user-attachments/assets/8fdf30d2-d8bf-424b-92b5-12a9227cab55" />
+<img width="210" height="62.60" alt="image" src="https://github.com/user-attachments/assets/8fdf30d2-d8bf-424b-92b5-12a9227cab55" />
 
 ### Insights: 
 
@@ -32,7 +32,7 @@ SELECT
 FROM
   `bigquery-public-data.thelook_ecommerce.users`
 ```
-<img width="379" height="111" alt="image" src="https://github.com/user-attachments/assets/6117d5a3-bd2e-4294-8a0e-7feb1a88b88c" />
+<img width="210" height="62.60" alt="image" src="https://github.com/user-attachments/assets/6117d5a3-bd2e-4294-8a0e-7feb1a88b88c" />
 
 ### Insights: 
 
@@ -191,7 +191,7 @@ FROM  customer_spending
 GROUP BY
   segment
 ```
-<img width="876" height="241" alt="image" src="https://github.com/user-attachments/assets/124269dc-0560-424f-9f77-32d39bcaf43b" />
+<img width="500" height="137.55" alt="image" src="https://github.com/user-attachments/assets/124269dc-0560-424f-9f77-32d39bcaf43b" />
 
 ### Insights: 
 
